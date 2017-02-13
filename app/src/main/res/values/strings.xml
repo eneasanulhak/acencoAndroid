@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Acenco</string>
+    <string name="action_settings">Configuração</string>
+    <string name="lblServico">Serviço</string>
+    <string name="lblBotaoServico">Iniciar</string>
+    <string name="lblStatusServico">Desconectado</string>
+    <string name="lblCameras">Cameras</string>
+    <string name="lblCamera1">1</string>
+    <string name="lblCamera2">2</string>
+    <string name="lblCamera3">3</string>
+    <string name="lblCamera4">4</string>
+    <string name="lblMensagem">Mensagem</string>
+    <string name="title_activity_act_configuracao">Configuração</string>
+    <string name="lblConfiguracaoIP">IP</string>
+    <string name="lblConfiguracaoPorta">Porta</string>
+    <string name="lblConfiguracaoUrl">Url</string>
+    <string name="title_activity_act_camera">Camera</string>
+
+</resources>
