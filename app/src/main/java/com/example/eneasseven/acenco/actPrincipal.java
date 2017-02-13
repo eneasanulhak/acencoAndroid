@@ -28,6 +28,8 @@ import java.io.Serializable;
 
 public class actPrincipal extends AppCompatActivity implements ServiceConnection{
 
+     //inclusao no git
+
     private Button buttonServico;
     private Button buttonCamera1;
     private Button buttonCamera2;
