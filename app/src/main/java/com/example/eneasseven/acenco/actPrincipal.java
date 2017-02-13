@@ -172,6 +172,7 @@ public class actPrincipal extends AppCompatActivity implements ServiceConnection
         } else {
             buttonServico.setText(actPrincipal.LABEL_BOTAO_SERVICE_INICIAR);
             textViewServico.setText("Desconectado!!");
+
         }
     }
 
